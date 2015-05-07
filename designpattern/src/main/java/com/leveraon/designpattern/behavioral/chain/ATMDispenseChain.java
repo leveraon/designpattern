@@ -16,6 +16,7 @@ public class ATMDispenseChain {
 		c2.setNextChain(c3);
 	}
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		ATMDispenseChain atmDispenser = new ATMDispenseChain();
 		while (true) {
