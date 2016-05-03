@@ -1,4 +1,4 @@
-package com.leveraon.designpattern.structual.adpater;
+package com.leveraon.designpattern.structual.adapter;
 
 public interface SocketAdapter {
 	public Volt get120Volt();
