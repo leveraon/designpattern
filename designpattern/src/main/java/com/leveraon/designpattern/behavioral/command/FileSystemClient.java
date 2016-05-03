@@ -1,7 +1,5 @@
 package com.leveraon.designpattern.behavioral.command;
 
-import com.leveraon.designpattern.behavioral.iterator.CloseFileCommand;
-
 public class FileSystemClient {
 	public static void main(String[] args) {
 		// Creating the receiver object

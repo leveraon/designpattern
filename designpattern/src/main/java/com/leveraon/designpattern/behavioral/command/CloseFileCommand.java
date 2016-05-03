@@ -1,7 +1,4 @@
-package com.leveraon.designpattern.behavioral.iterator;
-
-import com.leveraon.designpattern.behavioral.command.Command;
-import com.leveraon.designpattern.behavioral.command.FileSystemReceiver;
+package com.leveraon.designpattern.behavioral.command;
 
 public class CloseFileCommand implements Command {
 
